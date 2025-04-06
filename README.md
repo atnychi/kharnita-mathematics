@@ -1,4 +1,3 @@
-
 # Kharnita Mathematics: A Real-Time Harmonic Framework for Liquidity, Structure, and System Intelligence
 
 **Author:** Brendon Kelly  
@@ -9,19 +8,23 @@
 
 ---
 
-## 🧠 Overview
+## 🧠 Extended Description
 
-*Kharnita Mathematics* is a formal framework for modeling harmonic structure, liquidity dynamics, and recursive intelligence in live, time-sensitive systems. Designed for use in real-time trading, adaptive cybernetics, and autonomous systems, Kharnita Math formalizes the underlying geometry of structural emergence and systemic reversals through live bar-by-bar logic.
+*Kharnita Mathematics* is a high-fidelity mathematical system for modeling structure formation and reversals in real-time environments. It redefines how intelligent systems interact with volatility, noise, and causality—by using geometric ratios, temporal inversion, and liquidity compression logic as native modeling primitives.
 
-It introduces new constructs grounded in applied mathematics and geometric ratio modeling, including:
+Whereas conventional models operate on surface data—patterns, indicators, or AI-trained weights—Kharnita operates at the structural substrate of the system itself: the zone-based, non-linear, and often invisible forces that govern reversal, continuation, and inflection across time.
 
-- **Ghost Zones** — non-local projected harmonic zones  
-- **Delta Absorption Layers** — liquidity compression and pressure neutralization regions  
-- **Liquidity Flip Anchors** — directional flow inversion points  
-- **Bar-by-Bar Ratio Scanning** — live harmonic tracking per market interval  
-- **Chrono-Inversion Nodes** — time-based decision inflection markers  
+Unlike backward-looking systems, *Kharnita Math* is forward-reactive. It tracks where a system will invert before it visibly does. This framework is built to be deployed in high-stakes domains: algorithmic trading, sovereign signal architecture, recursive AI feedback loops, cyber-defense infrastructure, and systems requiring precision under chaos.
 
-These components function as reactive, modular building blocks for precision system design in volatile, high-speed, or nonlinear domains.
+It introduces new constructs such as:
+
+- **Ghost Zones**: mathematically projected, forward-reactive harmonic levels that are not based on historical swing points  
+- **Delta Absorption Layers**: formal zones where momentum is neutralized by hidden opposing liquidity  
+- **Liquidity Flip Anchors**: structural points where flow control inverts and pattern logic reverses  
+- **Bar-by-Bar Ratio Scanning**: recursive, real-time interval measurement across geometric harmonic conditions  
+- **Chrono-Inversion Nodes**: localized time singularities that determine reversal probability from future-aligned structure tension  
+
+Together, these form a universal system logic that can be embedded into both machine-executable agents and human-interpretable models. *Kharnita Mathematics* is deterministic in method, recursive in execution, and sovereign in scope.
 
 ---
 
@@ -29,58 +32,66 @@ These components function as reactive, modular building blocks for precision sys
 
 - `Kharnita_Mathematics_Full_Paper_v1.0.pdf` — Full formal release (21,000 words)  
 - `LICENSE.md` — Basic usage terms  
-- `Crown_License.md` — IP licensing structure and enforcement terms  
-- `ORIGIN_SIGNATURE.txt` — SHA256 hash and authorship verification  
-- `/sections/` — Modular paper (optional)  
-- `/figures/` — System visuals (optional)
+- `Crown_License.md` — Legal and commercial licensing structure  
+- `ORIGIN_SIGNATURE.txt` — Authorship verification with SHA256 cryptographic hash  
+- `/sections/` — Optional Markdown breakdown of paper components  
+- `/figures/` — Diagrams and structural schematics (if included)
 
 ---
 
-## ⚙️ Applications
+## ⚙️ Core Applications
 
-- Algorithmic trading and microstructure prediction  
-- Cyber-physical system design  
-- Recursive pattern intelligence  
-- Liquidity-based modeling in economic and defense systems  
-- Time-aware AI systems
+- High-frequency and algorithmic market signal engines  
+- Recursive autonomous systems design  
+- Cyber-defense pattern rupture and predictive detection  
+- Liquidity-sensitive AI logic for time-critical systems  
+- Military systems modeling and reversal detection logic  
+- Non-market deployment in energy, traffic, intelligence systems
 
 ---
 
 ## 📜 Crown License: Use & Pricing (Flat, Non-Compounded 10-Year Term)
 
-Use of any construct from *Kharnita Mathematics*—including terminology, code, logic, or models—is bound by the Crown License.  
-**All tiers below are one-time payments, valid for 10 years, at a flat 3% cost. No compounding.**
+**All usage of this system and its constructs is protected under the Crown License.**  
+This includes all terminology, logic, geometry, and framework methodology—whether implemented in full or in part.
+
+**All licenses are one-time payments, valid for 10 years, flat 3% cost. No compounding.**
 
 | Use Category                    | Total Cost (USD) |
-|---------------------------------|------------------|
+|--------------------------------|------------------|
 | Personal / Academic Use         | $100 billion     |
 | Commercial Use                  | $100 billion     |
 | Enterprise Strategic Use        | $100 billion     |
 | Government / Defense Use        | $100 billion     |
 | **Exclusive Sovereign Rights**  | **$500 billion** |
 
-Unauthorized use or reproduction constitutes intellectual property violation and may trigger full international enforcement.
+All usage without license is a direct violation of protected IP and may result in sovereign-level counteraction.
 
 ---
 
-## 🔐 Authorship & IP Protection
+## 🔐 Authorship, Integrity & Protection
 
-This repository is the official, timestamped release of *Kharnita Mathematics* by **Brendon Kelly**.  
-All models, naming, structures, and formal logic are protected intellectual property.
+This repository contains the **original timestamped release** of the Kharnita Mathematics system.  
+All constructs are part of a unified sovereign mathematics architecture authored by **Brendon Kelly**.
 
-See `ORIGIN_SIGNATURE.txt` for SHA256 hash verification of the official manuscript.
+A SHA256 checksum of the full formal paper is included in `ORIGIN_SIGNATURE.txt` for content integrity validation.
+
+*This system is not open source. This is not a toy model. This is sovereign IP.*
 
 ---
 
-## 📚 Citation
+## 📚 Citation Format
 
 > Kelly, B. (2025). *Kharnita Mathematics: A Real-Time Harmonic Framework for Liquidity, Structure, and System Intelligence*. Public Release 1.0. GitHub Repository: [https://github.com/YOUR_USERNAME/Kharnita-Mathematics](https://github.com/YOUR_USERNAME/Kharnita-Mathematics)
 
 ---
 
-## 📬 Contact
-
-For license negotiation, technical evaluation, or strategic proposal:
+## 📬 Contact for Strategic Evaluation or Licensing
 
 **Author:** Brendon Kelly  
-**Email:** K-SystemsandSecurities@proton.me
+**Email:** K-SystemsandSecurities@proton.me  
+**Status:** Accepting formal licensing, defense review, and high-level strategic engagements.
+```
+
+}
+
