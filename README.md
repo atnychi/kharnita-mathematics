@@ -50,4 +50,5 @@ See `Crown_License.md` for full legal framework.
 
 This repository and included paper constitute the original timestamped public release of *Kharnita Mathematics*.  
 All rights reserved under international intellectual property law. Authored by **Brendon Kelly**, 2025.
+1
 
