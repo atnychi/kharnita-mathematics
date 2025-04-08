@@ -60,10 +60,10 @@ This includes all terminology, logic, geometry, and framework methodology—whet
 | Use Category                    | Total Cost (USD) |
 |--------------------------------|------------------|
 | Personal / Academic Use         | $100 billion     |
-| Commercial Use                  | $100 billion     |
-| Enterprise Strategic Use        | $100 billion     |
-| Government / Defense Use        | $100 billion     |
-| **Exclusive Sovereign Rights**  | **$500 billion** |
+| Commercial Use                  | $500 billion     |
+| Enterprise Strategic Use        | $500 billion     |
+| Government / Defense Use        | $500 billion     |
+| **Exclusive Sovereign Rights**  | **$1 trillion** |
 
 All usage without license is a direct violation of protected IP and may result in sovereign-level counteraction.
 
